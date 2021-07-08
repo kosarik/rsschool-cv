@@ -16,6 +16,6 @@ function multiply(a, b){
   
 **Work experience**: As of now I am a student at RSS community. Date of start was 5 of July.  
   
-**Education**: Idk if that counts, but I like reading documentation from different useful tools like Babel, Webpack, Denu etc.  
+**Education**: Idk if that counts, but I like reading documentation from different useful tools like Babel, Webpack, Denu etcetera.  
   
 **Languages**: At the time of writing, My language levels are the following: Russian, Belarussian — mother-tongue; English — C1, Chinese — HSK4, Spanish — A1.
